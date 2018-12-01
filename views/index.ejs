@@ -16,46 +16,60 @@
 
 <body class="bg-dark">
   <input id="data" type="hidden" value="<%= JSON.stringify(data) %>">
-  
-  
+
+
   <h1 class="text-light m-3">GIS 2018 - U.T.N. F.R.Re</h1>
   <!-- MAPA -->
-  <div id="map"></div>
-  <div id="mouse-position" class="text-light"></div>
-  
+  <div id="map" class="map"></div>
+
   <!-- MENU LATERAL -->
   <div id="panel">
     <div id="controles">
       <h3 class="m-3">Controles</h3>
-      <input type="radio" class="ml-3 mr-1" name="controles" id="controles_navegacion" value="navegacion" checked="checked"
-        onchange="seleccionarControl(this)">
+      <input type="radio" class="ml-3 mr-1" name="controles" id="controles_navegacion" value="navegacion" checked="checked" onchange="seleccionarControl(this)">
       <label for="controles_navegacion">Navegacion</label><br />
       <input type="radio" class="ml-3 mr-1" name="controles" id="controles_consulta" value="consulta" onchange="seleccionarControl(this)">
       <label for="controles_consulta">Consulta</label><br />
+
+      <!-- Measure -->
+      <input type="radio" class="ml-3 mr-1" name="controles" id="controles_medicion" value="medicion" onchange="seleccionarControl(this)">
+      <label for="controles_medicion">Medición &nbsp;</label>
+      <!-- <form class="form-inline"> -->
+        <select id="type">
+          <option value="length">Longitud (Linea)</option>
+          <option value="area">Área (Polígono)</option>
+        </select>
+      <!-- </form> -->
     </div>
-    
+
     <h3 class="m-3">Capas</h3>
     <% data.forEach(element => { %>
-    <input type="checkbox" class="ml-3 mr-1" id="<%= element.capa %>" onchange="changeVisibility(this, '<%= element.id %>')">
-    <label for="<%= element.capa %>">
-      <%= element.nombre %>
-    </label>
-    <br />
-    <% }) %>
+      <input type="checkbox" class="ml-3 mr-1" id="<%= element.capa %>" onchange="changeVisibility(this, '<%= element.id %>')">
+      <label for="<%= element.capa %>">
+        <%= element.nombre %>
+      </label>
+      <br />
+      <% }) %>
   </div>
+
+  <!-- Mouse Position -->
+  <div id="mouse-position" class="text-light"></div>
+
 
   <% include info %>
 
 
-  <!-- SCRIPTS -->
-  <!-- Librerías -->
-  <script src="/scripts/jquery-3.3.1.slim.min.js"></script>
-  <script src="/scripts/bootstrap.min.js"></script>
-  <script src="/scripts/axios.min.js"></script>
+    <!-- SCRIPTS -->
+    <!-- Librerías -->
+    <script src="/scripts/jquery-3.3.1.slim.min.js"></script>
+    <script src="/scripts/bootstrap.min.js"></script>
+    <script src="/scripts/axios.min.js"></script>
 
-  <!-- Nuestro Código -->
-  <script src="/scripts/public-setmapa.js"></script>
-  <script src="/scripts/public-index.js"></script>
+    <!-- Nuestro Código -->
+    <script src="/scripts/public-setmapa.js"></script>
+    <script src="/scripts/public-measure.js"></script>
+    <script src="/scripts/public-index.js"></script>
+    <script src="/scripts/public-consulta.js"></script>
 
 </body>
 

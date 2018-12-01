@@ -25,9 +25,18 @@ router.get('/', function (req, res) {
 });
 
 
-/* GET fclass of table */
-router.get('/getInfo/:wkt/:resolucion', function (req, res) {
-  
+/* GET info  */
+router.post('/getInfo', function (req, res) {
+  console.log(req.body);
+  console.log(req.body.wkt)
+  db.any("SELECT * FROM " + req.body.capa_activa +  
+        " WHERE st_intersects("+
+        " ST_geomfromtext('"+ req.body.wkt +"' , 4326), geom)"
+  ).then(info => {
+    res.send(info);
+  }).catch(err => {
+    console.log(err);
+  }) 
 })
 
 

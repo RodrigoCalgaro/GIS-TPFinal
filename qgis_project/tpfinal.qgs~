@@ -3,147 +3,147 @@
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
-  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="actividades_agropecuarias20181023085239978" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;actividades_agropecuarias&quot; (geom) sql=" name="actividades_agropecuarias">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="actividades_agropecuarias20181023085239978" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;actividades_agropecuarias&quot; (geom) sql=" name="actividades_agropecuarias">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="actividades_economicas20181023085240318" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;actividades_economicas&quot; (geom) sql=" name="actividades_economicas">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="actividades_economicas20181023085240318" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;actividades_economicas&quot; (geom) sql=" name="actividades_economicas">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="provincias20181023085241722" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;provincias&quot; (geom) sql=" name="provincias">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="provincias20181023085241722" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;provincias&quot; (geom) sql=" name="provincias">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="complejo_de_energia_ene20181023085240397" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;complejo_de_energia_ene&quot; (geom) sql=" name="complejo_de_energia_ene">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="complejo_de_energia_ene20181023085240397" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;complejo_de_energia_ene&quot; (geom) sql=" name="complejo_de_energia_ene">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="curso_de_agua_hid20181023085240442" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;curso_de_agua_hid&quot; (geom) sql=" name="curso_de_agua_hid">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="curso_de_agua_hid20181023085240442" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;curso_de_agua_hid&quot; (geom) sql=" name="curso_de_agua_hid">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="curvas_de_nivel20181023085240511" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;curvas_de_nivel&quot; (geom) sql=" name="curvas_de_nivel">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="curvas_de_nivel20181023085240511" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;curvas_de_nivel&quot; (geom) sql=" name="curvas_de_nivel">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edif_construcciones_turisticas20181023085240555" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_construcciones_turisticas&quot; (geom) sql=" name="edif_construcciones_turisticas">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edif_construcciones_turisticas20181023085240555" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_construcciones_turisticas&quot; (geom) sql=" name="edif_construcciones_turisticas">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edif_depor_y_esparcimiento20181023085240618" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_depor_y_esparcimiento&quot; (geom) sql=" name="edif_depor_y_esparcimiento">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edif_educacion20181023085240708" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_educacion&quot; (geom) sql=" name="edif_educacion">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edif_educacion20181023085240708" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_educacion&quot; (geom) sql=" name="edif_educacion">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edif_religiosos20181023085240746" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_religiosos&quot; (geom) sql=" name="edif_religiosos">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edif_religiosos20181023085240746" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_religiosos&quot; (geom) sql=" name="edif_religiosos">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edificio_de_salud_ips20181023085240801" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificio_de_salud_ips&quot; (geom) sql=" name="edificio_de_salud_ips">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edificio_de_salud_ips20181023085240801" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificio_de_salud_ips&quot; (geom) sql=" name="edificio_de_salud_ips">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edificio_de_seguridad_ips20181023085240834" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificio_de_seguridad_ips&quot; (geom) sql=" name="edificio_de_seguridad_ips">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edificio_de_seguridad_ips20181023085240834" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificio_de_seguridad_ips&quot; (geom) sql=" name="edificio_de_seguridad_ips">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edificio_publico_ips20181023085240867" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificio_publico_ips&quot; (geom) sql=" name="edificio_publico_ips">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edificio_publico_ips20181023085240867" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificio_publico_ips&quot; (geom) sql=" name="edificio_publico_ips">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edificios_ferroviarios20181023085240911" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificios_ferroviarios&quot; (geom) sql=" name="edificios_ferroviarios">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="edificios_ferroviarios20181023085240911" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edificios_ferroviarios&quot; (geom) sql=" name="edificios_ferroviarios">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="ejido20181023085240993" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;ejido&quot; (geom) sql=" name="ejido">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="ejido20181023085240993" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;ejido&quot; (geom) sql=" name="ejido">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="espejo_de_agua_hid20181023085241127" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;espejo_de_agua_hid&quot; (geom) sql=" name="espejo_de_agua_hid">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="espejo_de_agua_hid20181023085241127" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;espejo_de_agua_hid&quot; (geom) sql=" name="espejo_de_agua_hid">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="estructuras_portuarias20181023085241170" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;estructuras_portuarias&quot; (geom) sql=" name="estructuras_portuarias">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="estructuras_portuarias20181023085241170" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;estructuras_portuarias&quot; (geom) sql=" name="estructuras_portuarias">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="infraestructura_aeroportuaria_punto20181023085241199" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;infraestructura_aeroportuaria_punto&quot; (geom) sql=" name="infraestructura_aeroportuaria_punto">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="infraestructura_aeroportuaria_punto20181023085241199" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;infraestructura_aeroportuaria_punto&quot; (geom) sql=" name="infraestructura_aeroportuaria_punto">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="infraestructura_hidro20181023085241239" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;infraestructura_hidro&quot; (geom) sql=" name="infraestructura_hidro">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="infraestructura_hidro20181023085241239" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;infraestructura_hidro&quot; (geom) sql=" name="infraestructura_hidro">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="isla20181023085241311" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;isla&quot; (geom) sql=" name="isla">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="isla20181023085241311" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;isla&quot; (geom) sql=" name="isla">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="limite_politico_administrativo_lim20181023085241356" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;limite_politico_administrativo_lim&quot; (geom) sql=" name="limite_politico_administrativo_lim">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="limite_politico_administrativo_lim20181023085241356" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;limite_politico_administrativo_lim&quot; (geom) sql=" name="limite_politico_administrativo_lim">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="localidades20181023085241382" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;localidades&quot; (geom) sql=" name="localidades">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="localidades20181023085241382" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;localidades&quot; (geom) sql=" name="localidades">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="líneas_de_conducción_ene20181023085241405" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;líneas_de_conducción_ene&quot; (geom) sql=" name="líneas_de_conducción_ene">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="líneas_de_conducción_ene20181023085241405" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;líneas_de_conducción_ene&quot; (geom) sql=" name="líneas_de_conducción_ene">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="marcas_y_señales20181023085241445" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;marcas_y_señales&quot; (geom) sql=" name="marcas_y_señales">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="marcas_y_señales20181023085241445" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;marcas_y_señales&quot; (geom) sql=" name="marcas_y_señales">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="muro_embalse20181023085241496" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;muro_embalse&quot; (geom) sql=" name="muro_embalse">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="muro_embalse20181023085241496" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;muro_embalse&quot; (geom) sql=" name="muro_embalse">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="obra_de_comunicación20181023085241530" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;obra_de_comunicación&quot; (geom) sql=" name="obra_de_comunicación">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="obra_de_comunicación20181023085241530" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;obra_de_comunicación&quot; (geom) sql=" name="obra_de_comunicación">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="obra_portuaria20181023085241620" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;obra_portuaria&quot; (geom) sql=" name="obra_portuaria">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="obra_portuaria20181023085241620" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;obra_portuaria&quot; (geom) sql=" name="obra_portuaria">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="otras_edificaciones20181023085241661" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;otras_edificaciones&quot; (geom) sql=" name="otras_edificaciones">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="otras_edificaciones20181023085241661" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;otras_edificaciones&quot; (geom) sql=" name="otras_edificaciones">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="pais_lim20181023085241689" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;pais_lim&quot; (geom) sql=" name="pais_lim">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="pais_lim20181023085241689" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;pais_lim&quot; (geom) sql=" name="pais_lim">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="puente_red_vial_puntos20181023085241761" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;puente_red_vial_puntos&quot; (geom) sql=" name="puente_red_vial_puntos">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="puente_red_vial_puntos20181023085241761" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;puente_red_vial_puntos&quot; (geom) sql=" name="puente_red_vial_puntos">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="puntos_de_alturas_topograficas20181023085241810" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;puntos_de_alturas_topograficas&quot; (geom) sql=" name="puntos_de_alturas_topograficas">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="puntos_de_alturas_topograficas20181023085241810" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;puntos_de_alturas_topograficas&quot; (geom) sql=" name="puntos_de_alturas_topograficas">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="puntos_del_terreno20181023085241849" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;puntos_del_terreno&quot; (geom) sql=" name="puntos_del_terreno">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="puntos_del_terreno20181023085241849" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;puntos_del_terreno&quot; (geom) sql=" name="puntos_del_terreno">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="edif_depor_y_esparcimiento20181023085240618" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;edif_depor_y_esparcimiento&quot; (geom) sql=" name="edif_depor_y_esparcimiento">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="red_ferroviaria20181023085241865" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;red_ferroviaria&quot; (geom) sql=" name="red_ferroviaria">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="red_ferroviaria20181023085241865" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;red_ferroviaria&quot; (geom) sql=" name="red_ferroviaria">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="red_vial20181023085241958" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;red_vial&quot; (geom) sql=" name="red_vial">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="red_vial20181023085241958" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;red_vial&quot; (geom) sql=" name="red_vial">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="salvado_de_obstaculo20181023085242038" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;salvado_de_obstaculo&quot; (geom) sql=" name="salvado_de_obstaculo">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="salvado_de_obstaculo20181023085242038" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;salvado_de_obstaculo&quot; (geom) sql=" name="salvado_de_obstaculo">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="señalizaciones20181023085242063" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;señalizaciones&quot; (geom) sql=" name="señalizaciones">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="señalizaciones20181023085242063" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=Point table=&quot;public&quot;.&quot;señalizaciones&quot; (geom) sql=" name="señalizaciones">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="sue_congelado20181023085242092" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_congelado&quot; (geom) sql=" name="sue_congelado">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="sue_congelado20181023085242092" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_congelado&quot; (geom) sql=" name="sue_congelado">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="sue_consolidado20181023085242112" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_consolidado&quot; (geom) sql=" name="sue_consolidado">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="sue_consolidado20181023085242112" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_consolidado&quot; (geom) sql=" name="sue_consolidado">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="sue_costero20181023085242126" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_costero&quot; (geom) sql=" name="sue_costero">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="sue_costero20181023085242126" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_costero&quot; (geom) sql=" name="sue_costero">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="sue_hidromorfologico20181023085242139" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_hidromorfologico&quot; (geom) sql=" name="sue_hidromorfologico">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="sue_hidromorfologico20181023085242139" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_hidromorfologico&quot; (geom) sql=" name="sue_hidromorfologico">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="sue_no_consolidado20181023085242159" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_no_consolidado&quot; (geom) sql=" name="sue_no_consolidado">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="sue_no_consolidado20181023085242159" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;sue_no_consolidado&quot; (geom) sql=" name="sue_no_consolidado">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="veg_arbustiva20181023085242179" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_arbustiva&quot; (geom) sql=" name="veg_arbustiva">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="veg_arbustiva20181023085242179" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_arbustiva&quot; (geom) sql=" name="veg_arbustiva">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="veg_arborea20181023085242186" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_arborea&quot; (geom) sql=" name="veg_arborea">
+    <layer-tree-layer expanded="0" providerKey="postgres" checked="Qt::Unchecked" id="veg_arborea20181023085242186" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_arborea&quot; (geom) sql=" name="veg_arborea">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="veg_cultivos20181023085242191" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_cultivos&quot; (geom) sql=" name="veg_cultivos">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="veg_hidrofila20181023085242197" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_hidrofila&quot; (geom) sql=" name="veg_hidrofila">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="veg_hidrofila20181023085242197" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_hidrofila&quot; (geom) sql=" name="veg_hidrofila">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="veg_suelo_desnudo20181023085242203" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_suelo_desnudo&quot; (geom) sql=" name="veg_suelo_desnudo">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="veg_suelo_desnudo20181023085242203" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiPolygon table=&quot;public&quot;.&quot;veg_suelo_desnudo&quot; (geom) sql=" name="veg_suelo_desnudo">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Checked" id="vias_secundarias20181023085242209" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;vias_secundarias&quot; (geom) sql=" name="vias_secundarias">
+    <layer-tree-layer expanded="1" providerKey="postgres" checked="Qt::Unchecked" id="vias_secundarias20181023085242209" source="dbname='tpfinal' host=localhost port=5432 user='user' sslmode=disable key='gid' srid=4326 type=MultiLineString table=&quot;public&quot;.&quot;vias_secundarias&quot; (geom) sql=" name="vias_secundarias">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -151,10 +151,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>-74.19739236831665607</xmin>
-      <ymin>-59.45606732368473502</ymin>
-      <xmax>-52.09073553085323738</xmax>
-      <ymax>-20.68711924552916059</ymax>
+      <xmin>-66.62092572433213888</xmin>
+      <ymin>-31.74960582368684214</ymin>
+      <xmax>-57.43515319829855059</xmax>
+      <ymax>-15.6403071297283276</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -225,219 +225,219 @@
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="actividades_agropecuarias" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="actividades_agropecuarias" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="actividades_agropecuarias20181023085239978" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="actividades_agropecuarias20181023085239978" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="actividades_economicas" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="actividades_economicas" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="actividades_economicas20181023085240318" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="actividades_economicas20181023085240318" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="provincias" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="provincias" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="provincias20181023085241722" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="provincias20181023085241722" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="complejo_de_energia_ene" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="complejo_de_energia_ene" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="complejo_de_energia_ene20181023085240397" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="complejo_de_energia_ene20181023085240397" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="curso_de_agua_hid" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="curso_de_agua_hid" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="curso_de_agua_hid20181023085240442" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="curso_de_agua_hid20181023085240442" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="curvas_de_nivel" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="curvas_de_nivel" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="curvas_de_nivel20181023085240511" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="curvas_de_nivel20181023085240511" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edif_construcciones_turisticas" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edif_construcciones_turisticas" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edif_construcciones_turisticas20181023085240555" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edif_construcciones_turisticas20181023085240555" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edif_depor_y_esparcimiento" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edif_educacion" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edif_depor_y_esparcimiento20181023085240618" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edif_educacion20181023085240708" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edif_educacion" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edif_religiosos" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edif_educacion20181023085240708" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edif_religiosos20181023085240746" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edif_religiosos" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edificio_de_salud_ips" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edif_religiosos20181023085240746" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edificio_de_salud_ips20181023085240801" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edificio_de_salud_ips" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edificio_de_seguridad_ips" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edificio_de_salud_ips20181023085240801" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edificio_de_seguridad_ips20181023085240834" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edificio_de_seguridad_ips" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edificio_publico_ips" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edificio_de_seguridad_ips20181023085240834" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edificio_publico_ips20181023085240867" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edificio_publico_ips" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edificios_ferroviarios" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edificio_publico_ips20181023085240867" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edificios_ferroviarios20181023085240911" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="edificios_ferroviarios" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ejido" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="edificios_ferroviarios20181023085240911" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="ejido20181023085240993" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ejido" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="espejo_de_agua_hid" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="ejido20181023085240993" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="espejo_de_agua_hid20181023085241127" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="espejo_de_agua_hid" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="estructuras_portuarias" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="espejo_de_agua_hid20181023085241127" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="estructuras_portuarias20181023085241170" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="estructuras_portuarias" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="infraestructura_aeroportuaria_punto" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="estructuras_portuarias20181023085241170" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="infraestructura_aeroportuaria_punto20181023085241199" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="infraestructura_aeroportuaria_punto" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="infraestructura_hidro" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="infraestructura_aeroportuaria_punto20181023085241199" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="infraestructura_hidro20181023085241239" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="infraestructura_hidro" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="isla" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="infraestructura_hidro20181023085241239" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="isla20181023085241311" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="isla" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="limite_politico_administrativo_lim" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="isla20181023085241311" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="limite_politico_administrativo_lim20181023085241356" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="limite_politico_administrativo_lim" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="localidades" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="limite_politico_administrativo_lim20181023085241356" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="localidades20181023085241382" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="localidades" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="líneas_de_conducción_ene" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="localidades20181023085241382" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="líneas_de_conducción_ene20181023085241405" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="líneas_de_conducción_ene" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="marcas_y_señales" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="líneas_de_conducción_ene20181023085241405" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="marcas_y_señales20181023085241445" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="marcas_y_señales" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="muro_embalse" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="marcas_y_señales20181023085241445" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="muro_embalse20181023085241496" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="muro_embalse" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="obra_de_comunicación" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="muro_embalse20181023085241496" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="obra_de_comunicación20181023085241530" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="obra_de_comunicación" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="obra_portuaria" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="obra_de_comunicación20181023085241530" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="obra_portuaria20181023085241620" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="obra_portuaria" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="otras_edificaciones" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="obra_portuaria20181023085241620" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="otras_edificaciones20181023085241661" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="otras_edificaciones" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="pais_lim" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="otras_edificaciones20181023085241661" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="pais_lim20181023085241689" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="pais_lim" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="puente_red_vial_puntos" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="pais_lim20181023085241689" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="puente_red_vial_puntos20181023085241761" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="puente_red_vial_puntos" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="puntos_de_alturas_topograficas" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="puente_red_vial_puntos20181023085241761" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="puntos_de_alturas_topograficas20181023085241810" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="puntos_de_alturas_topograficas" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="puntos_del_terreno" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="puntos_de_alturas_topograficas20181023085241810" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="puntos_del_terreno20181023085241849" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="puntos_del_terreno" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="edif_depor_y_esparcimiento" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="puntos_del_terreno20181023085241849" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="edif_depor_y_esparcimiento20181023085240618" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="red_ferroviaria" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="red_ferroviaria" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="red_ferroviaria20181023085241865" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="red_ferroviaria20181023085241865" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="red_vial" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="red_vial" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="red_vial20181023085241958" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="red_vial20181023085241958" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="salvado_de_obstaculo" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="salvado_de_obstaculo" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="salvado_de_obstaculo20181023085242038" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="salvado_de_obstaculo20181023085242038" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="señalizaciones" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="señalizaciones" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="señalizaciones20181023085242063" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="señalizaciones20181023085242063" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sue_congelado" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sue_congelado" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sue_congelado20181023085242092" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sue_congelado20181023085242092" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sue_consolidado" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sue_consolidado" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sue_consolidado20181023085242112" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sue_consolidado20181023085242112" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sue_costero" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sue_costero" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sue_costero20181023085242126" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sue_costero20181023085242126" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sue_hidromorfologico" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sue_hidromorfologico" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sue_hidromorfologico20181023085242139" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sue_hidromorfologico20181023085242139" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sue_no_consolidado" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sue_no_consolidado" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sue_no_consolidado20181023085242159" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sue_no_consolidado20181023085242159" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="veg_arbustiva" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="veg_arbustiva" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="veg_arbustiva20181023085242179" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="veg_arbustiva20181023085242179" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="veg_arborea" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="veg_arborea20181023085242186" visible="1"/>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="veg_arborea" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="veg_arborea20181023085242186" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="veg_cultivos" showFeatureCount="0">
@@ -445,19 +445,19 @@
         <legendlayerfile isInOverview="0" layerid="veg_cultivos20181023085242191" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="veg_hidrofila" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="veg_hidrofila" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="veg_hidrofila20181023085242197" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="veg_hidrofila20181023085242197" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="veg_suelo_desnudo" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="veg_suelo_desnudo" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="veg_suelo_desnudo20181023085242203" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="veg_suelo_desnudo20181023085242203" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="vias_secundarias" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="vias_secundarias" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="vias_secundarias20181023085242209" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="vias_secundarias20181023085242209" visible="0"/>
       </filegroup>
     </legendlayer>
   </legend>
@@ -4005,7 +4005,7 @@
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="0" simplifyDrawingHints="1" minLabelScale="1" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
         <xmin>-73.55490875244140625</xmin>
         <ymin>-55.25343322753909803</ymin>
@@ -4143,12 +4143,12 @@
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="157,213,35,255"/>
+              <prop k="color" v="184,234,255,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_color" v="88,206,238,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -4160,7 +4160,149 @@
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
       <labeling type="simple"/>
-      <customproperties/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="Ubuntu"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="11"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Italic"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
@@ -4186,6 +4328,35 @@
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="Ubuntu,11,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <aliases>
         <alias field="gid" index="0" name=""/>
@@ -4224,15 +4395,68 @@
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
+      <attributeactions default="0">
+        <actionsetting showInAttributeTable="1" action="" icon="" capture="0" type="0" name="" shortTitle=""/>
+      </attributeactions>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="rotation"/>
+          <column width="-1" hidden="0" type="field" name="group"/>
+          <column width="-1" hidden="1" type="actions"/>
+          <column width="-1" hidden="0" type="field" name="gid"/>
+          <column width="-1" hidden="0" type="field" name="nombre"/>
+          <column width="-1" hidden="0" type="field" name="tipo"/>
+          <column width="-1" hidden="0" type="field" name="precisión"/>
+          <column width="-1" hidden="0" type="field" name="escala"/>
+          <column width="-1" hidden="0" type="field" name="signo"/>
+          <column width="-1" hidden="0" type="field" name="fuente"/>
+          <column width="-1" hidden="0" type="field" name="operador"/>
+          <column width="-1" hidden="0" type="field" name="dataset"/>
+          <column width="-1" hidden="0" type="field" name="fclass"/>
+          <column width="-1" hidden="0" type="field" name="responsabl"/>
+          <column width="-1" hidden="0" type="field" name="cargo"/>
+          <column width="-1" hidden="0" type="field" name="progreso"/>
+          <column width="-1" hidden="0" type="field" name="t_act"/>
+          <column width="-1" hidden="0" type="field" name="coord"/>
+          <column width="-1" hidden="0" type="field" name="sp"/>
+          <column width="-1" hidden="0" type="field" name="datum"/>
+          <column width="-1" hidden="0" type="field" name="ac"/>
+          <column width="-1" hidden="0" type="field" name="cuenca"/>
+          <column width="-1" hidden="0" type="field" name="uso"/>
+          <column width="-1" hidden="0" type="field" name="salinidad"/>
+          <column width="-1" hidden="0" type="field" name="régimen"/>
+          <column width="-1" hidden="0" type="field" name="navegabili"/>
+          <column width="-1" hidden="0" type="field" name="actualizac"/>
+          <column width="-1" hidden="0" type="field" name="igds_style"/>
+          <column width="-1" hidden="0" type="field" name="igds_type"/>
+          <column width="-1" hidden="0" type="field" name="igds_weigh"/>
+          <column width="-1" hidden="0" type="field" name="igds_color"/>
+          <column width="-1" hidden="0" type="field" name="igds_level"/>
+          <column width="-1" hidden="0" type="field" name="length"/>
+          <column width="-1" hidden="0" type="field" name="shape_area"/>
+        </columns>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- codificación: utf-8 -*-
+"""
+Los formularios de QGIS pueden tener una función de Python que
+es llamada cuando se abre el formulario.
+
+Use esta función para añadir lógica extra a sus formularios.
+
+Introduzca el nombre de la función en el campo
+"Python Init function".
+Sigue un ejemplo:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <widgets/>
@@ -4275,7 +4499,7 @@
         <default field="length" expression=""/>
         <default field="shape_area" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>Salinidad</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -8786,7 +9010,7 @@
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="0" simplifyDrawingHints="1" minLabelScale="1" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
         <xmin>-73.11287689208980112</xmin>
         <ymin>-50.89543151855470171</ymin>
@@ -8931,7 +9155,12 @@
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+      <renderer-v2 attr="Tipo" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
+        <categories>
+          <category render="false" symbol="0" value="Camino Consolidado, Camino sin Pavimentar de Transitavilidad Permanente" label="Camino Consolidado, Camino sin Pavimentar de Transitavilidad Permanente"/>
+          <category render="false" symbol="1" value="Camino de Tierra, Camino sin Pavimentar de Transitavilidad Temporaria" label="Camino de Tierra, Camino sin Pavimentar de Transitavilidad Temporaria"/>
+          <category render="false" symbol="2" value="Camino Pavimentado" label="Camino Pavimentado"/>
+        </categories>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="line" name="0">
             <layer pass="0" class="SimpleLine" locked="0">
@@ -8941,9 +9170,98 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="67,130,69,255"/>
+              <prop k="line_color" v="70,65,55,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.26"/>
+              <prop k="line_width" v="2.06"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="215,55,215,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="1.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="line" name="1">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="70,65,55,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="2.06"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="255,255,255,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="1.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="line" name="2">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="70,65,55,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="2.06"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="255,65,55,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="1.26"/>
               <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -8953,11 +9271,191 @@
             </layer>
           </symbol>
         </symbols>
+        <source-symbol>
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="70,65,55,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="2.06"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="255,65,55,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="1.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+          </symbol>
+        </source-symbol>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
       <labeling type="simple"/>
-      <customproperties/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="Ubuntu"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="11"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Italic"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="2"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
@@ -8983,6 +9481,34 @@
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="Ubuntu,11,-1,5,50,0,0,0,0,0" style=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <aliases>
         <alias field="gid" index="0" name=""/>
@@ -9025,15 +9551,72 @@
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
+      <attributeactions default="0">
+        <actionsetting showInAttributeTable="1" action="" icon="" capture="0" type="0" name="" shortTitle=""/>
+      </attributeactions>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="rotation"/>
+          <column width="-1" hidden="0" type="field" name="group"/>
+          <column width="-1" hidden="1" type="actions"/>
+          <column width="-1" hidden="0" type="field" name="gid"/>
+          <column width="-1" hidden="0" type="field" name="nombre"/>
+          <column width="-1" hidden="0" type="field" name="tipo"/>
+          <column width="-1" hidden="0" type="field" name="situación"/>
+          <column width="-1" hidden="0" type="field" name="precisión"/>
+          <column width="-1" hidden="0" type="field" name="escala"/>
+          <column width="-1" hidden="0" type="field" name="signo"/>
+          <column width="-1" hidden="0" type="field" name="fuente"/>
+          <column width="-1" hidden="0" type="field" name="operador"/>
+          <column width="-1" hidden="0" type="field" name="dataset"/>
+          <column width="-1" hidden="0" type="field" name="fclass"/>
+          <column width="-1" hidden="0" type="field" name="responsabl"/>
+          <column width="-1" hidden="0" type="field" name="cargo"/>
+          <column width="-1" hidden="0" type="field" name="t_act"/>
+          <column width="-1" hidden="0" type="field" name="coord"/>
+          <column width="-1" hidden="0" type="field" name="sp"/>
+          <column width="-1" hidden="0" type="field" name="datum"/>
+          <column width="-1" hidden="0" type="field" name="ac"/>
+          <column width="-1" hidden="0" type="field" name="administra"/>
+          <column width="-1" hidden="0" type="field" name="revestimie"/>
+          <column width="-1" hidden="0" type="field" name="carriles"/>
+          <column width="-1" hidden="0" type="field" name="tráfico"/>
+          <column width="-1" hidden="0" type="field" name="cante_div"/>
+          <column width="-1" hidden="0" type="field" name="de_carga"/>
+          <column width="-1" hidden="0" type="field" name="km_inicial"/>
+          <column width="-1" hidden="0" type="field" name="nro_ruta"/>
+          <column width="-1" hidden="0" type="field" name="actualizac"/>
+          <column width="-1" hidden="0" type="field" name="categoría"/>
+          <column width="-1" hidden="0" type="field" name="igds_style"/>
+          <column width="-1" hidden="0" type="field" name="igds_type"/>
+          <column width="-1" hidden="0" type="field" name="igds_weigh"/>
+          <column width="-1" hidden="0" type="field" name="igds_color"/>
+          <column width="-1" hidden="0" type="field" name="igds_level"/>
+          <column width="-1" hidden="0" type="field" name="progreso"/>
+          <column width="-1" hidden="0" type="field" name="length"/>
+        </columns>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- codificación: utf-8 -*-
+"""
+Los formularios de QGIS pueden tener una función de Python que
+es llamada cuando se abre el formulario.
+
+Use esta función para añadir lógica extra a sus formularios.
+
+Introduzca el nombre de la función en el campo
+"Python Init function".
+Sigue un ejemplo:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <widgets/>
@@ -9080,7 +9663,7 @@
         <default field="progreso" expression=""/>
         <default field="length" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>Nombre</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -10775,7 +11358,7 @@
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="0" simplifyDrawingHints="1" minLabelScale="1" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
         <xmin>-73.57599639892579546</xmin>
         <ymin>-54.72044372558590197</ymin>
@@ -10890,17 +11473,130 @@
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+      <renderer-v2 attr="Tipo" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
+        <categories>
+          <category render="true" symbol="0" value="Bosque Artificial" label="Bosque Artificial"/>
+          <category render="true" symbol="1" value="Bosque, Selva, Foresta o Parque Natural Bajo" label="Bosque, Selva, Foresta o Parque Natural Bajo"/>
+          <category render="true" symbol="2" value="Palmar" label="Palmar"/>
+          <category render="false" symbol="3" value="" label=""/>
+        </categories>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="PointPatternFill" locked="0">
+              <prop k="displacement_x" v="1.2"/>
+              <prop k="displacement_x_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="displacement_x_unit" v="MM"/>
+              <prop k="displacement_y" v="0"/>
+              <prop k="displacement_y_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="displacement_y_unit" v="MM"/>
+              <prop k="distance_x" v="2.4"/>
+              <prop k="distance_x_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_x_unit" v="MM"/>
+              <prop k="distance_y" v="2.4"/>
+              <prop k="distance_y_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_y_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="marker" name="@0@0">
+                <layer pass="0" class="SimpleMarker" locked="0">
+                  <prop k="angle" v="0"/>
+                  <prop k="color" v="255,255,255,255"/>
+                  <prop k="horizontal_anchor_point" v="1"/>
+                  <prop k="joinstyle" v="bevel"/>
+                  <prop k="name" v="circle"/>
+                  <prop k="offset" v="0,0"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="outline_color" v="0,172,69,255"/>
+                  <prop k="outline_style" v="dash"/>
+                  <prop k="outline_width" v="0.4"/>
+                  <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="outline_width_unit" v="MM"/>
+                  <prop k="scale_method" v="diameter"/>
+                  <prop k="size" v="3.2"/>
+                  <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="size_unit" v="MM"/>
+                  <prop k="vertical_anchor_point" v="0"/>
+                </layer>
+              </symbol>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
+            <layer pass="0" class="PointPatternFill" locked="0">
+              <prop k="displacement_x" v="1.2"/>
+              <prop k="displacement_x_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="displacement_x_unit" v="MM"/>
+              <prop k="displacement_y" v="0"/>
+              <prop k="displacement_y_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="displacement_y_unit" v="MM"/>
+              <prop k="distance_x" v="2.4"/>
+              <prop k="distance_x_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_x_unit" v="MM"/>
+              <prop k="distance_y" v="2.4"/>
+              <prop k="distance_y_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_y_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="marker" name="@1@0">
+                <layer pass="0" class="SimpleMarker" locked="0">
+                  <prop k="angle" v="0"/>
+                  <prop k="color" v="84,176,74,255"/>
+                  <prop k="horizontal_anchor_point" v="1"/>
+                  <prop k="joinstyle" v="bevel"/>
+                  <prop k="name" v="circle"/>
+                  <prop k="offset" v="0,0"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="outline_color" v="61,128,53,255"/>
+                  <prop k="outline_style" v="solid"/>
+                  <prop k="outline_width" v="0.4"/>
+                  <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="outline_width_unit" v="MM"/>
+                  <prop k="scale_method" v="diameter"/>
+                  <prop k="size" v="0.2"/>
+                  <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="size_unit" v="MM"/>
+                  <prop k="vertical_anchor_point" v="1"/>
+                </layer>
+              </symbol>
+            </layer>
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="160,75,213,255"/>
+              <prop k="color" v="0,0,0,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_color" v="0,0,0,0"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.36"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="no"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
+            <layer pass="0" class="RasterFill" locked="0">
+              <prop k="alpha" v="1"/>
+              <prop k="angle" v="0"/>
+              <prop k="coordinate_mode" v="1"/>
+              <prop k="imageFile" v="/home/user/Downloads/Palmar.svg"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="width" v="21.6"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="width_unit" v="Pixel"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="202,229,126,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -10908,11 +11604,170 @@
             </layer>
           </symbol>
         </symbols>
+        <source-symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="145,82,45,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </source-symbol>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
       <labeling type="simple"/>
-      <customproperties/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="Ubuntu"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="11"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Italic"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
@@ -10938,6 +11793,34 @@
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="Ubuntu,11,-1,5,50,0,0,0,0,0" style=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <aliases>
         <alias field="gid" index="0" name=""/>
@@ -10970,15 +11853,62 @@
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
+      <attributeactions default="0">
+        <actionsetting showInAttributeTable="1" action="" icon="" capture="0" type="0" name="" shortTitle=""/>
+      </attributeactions>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="rotation"/>
+          <column width="-1" hidden="0" type="field" name="group"/>
+          <column width="-1" hidden="1" type="actions"/>
+          <column width="-1" hidden="0" type="field" name="gid"/>
+          <column width="-1" hidden="0" type="field" name="tipo"/>
+          <column width="-1" hidden="0" type="field" name="escala"/>
+          <column width="-1" hidden="0" type="field" name="signo"/>
+          <column width="-1" hidden="0" type="field" name="fuente"/>
+          <column width="-1" hidden="0" type="field" name="operador"/>
+          <column width="-1" hidden="0" type="field" name="dataset"/>
+          <column width="-1" hidden="0" type="field" name="fclass"/>
+          <column width="-1" hidden="0" type="field" name="responsabl"/>
+          <column width="-1" hidden="0" type="field" name="cargo"/>
+          <column width="-1" hidden="0" type="field" name="progreso"/>
+          <column width="-1" hidden="0" type="field" name="t_act"/>
+          <column width="-1" hidden="0" type="field" name="coord"/>
+          <column width="-1" hidden="0" type="field" name="sp"/>
+          <column width="-1" hidden="0" type="field" name="datum"/>
+          <column width="-1" hidden="0" type="field" name="ac"/>
+          <column width="-1" hidden="0" type="field" name="detalle"/>
+          <column width="-1" hidden="0" type="field" name="actualizac"/>
+          <column width="-1" hidden="0" type="field" name="igds_style"/>
+          <column width="-1" hidden="0" type="field" name="igds_type"/>
+          <column width="-1" hidden="0" type="field" name="igds_weigh"/>
+          <column width="-1" hidden="0" type="field" name="igds_color"/>
+          <column width="-1" hidden="0" type="field" name="igds_level"/>
+          <column width="-1" hidden="0" type="field" name="length"/>
+          <column width="-1" hidden="0" type="field" name="shape_area"/>
+        </columns>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- codificación: utf-8 -*-
+"""
+Los formularios de QGIS pueden tener una función de Python que
+es llamada cuando se abre el formulario.
+
+Use esta función para añadir lógica extra a sus formularios.
+
+Introduzca el nombre de la función en el campo
+"Python Init function".
+Sigue un ejemplo:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <widgets/>
@@ -11015,7 +11945,7 @@
         <default field="length" expression=""/>
         <default field="shape_area" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>Tipo</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -11259,7 +12189,7 @@
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="0" simplifyDrawingHints="1" minLabelScale="1" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
         <xmin>-71.71461486816410513</xmin>
         <ymin>-46.08530044555659799</ymin>
@@ -11374,17 +12304,195 @@
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+      <renderer-v2 attr="Tipo" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
+        <categories>
+          <category render="true" symbol="0" value="Plantaciones Perennes" label="Plantaciones Perennes"/>
+          <category render="true" symbol="1" value="Terreno para Cultivo" label="Terreno para Cultivo"/>
+          <category render="true" symbol="2" value="" label=""/>
+        </categories>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SVGFill" locked="0">
+              <prop k="angle" v="0"/>
+              <prop k="color" v="255,255,255,255"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_width" v="0.2"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="pattern_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="pattern_width_unit" v="MM"/>
+              <prop k="svgFile" v="/home/user/Downloads/PlantacionesPerennes.svg"/>
+              <prop k="svg_outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="svg_outline_width_unit" v="MM"/>
+              <prop k="width" v="12.8"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@0@0">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="square"/>
+                  <prop k="customdash" v="5;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="bevel"/>
+                  <prop k="line_color" v="35,35,35,0"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0.26"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="0"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="0"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
+            <layer pass="0" class="LinePatternFill" locked="0">
+              <prop k="angle" v="45"/>
+              <prop k="color" v="164,114,228,255"/>
+              <prop k="distance" v="5"/>
+              <prop k="distance_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_unit" v="MM"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@1@0">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="flat"/>
+                  <prop k="customdash" v="0.66;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="round"/>
+                  <prop k="line_color" v="84,176,74,255"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0.15"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="5.8"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="1"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+            <layer pass="0" class="LinePatternFill" locked="0">
+              <prop k="angle" v="45"/>
+              <prop k="color" v="0,0,255,255"/>
+              <prop k="distance" v="5"/>
+              <prop k="distance_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_unit" v="MM"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@1@1">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="round"/>
+                  <prop k="customdash" v="0.66;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="round"/>
+                  <prop k="line_color" v="84,176,74,255"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0.15"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="2.2"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="1"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+            <layer pass="0" class="LinePatternFill" locked="0">
+              <prop k="angle" v="45"/>
+              <prop k="color" v="0,0,255,255"/>
+              <prop k="distance" v="5"/>
+              <prop k="distance_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_unit" v="MM"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@1@2">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="round"/>
+                  <prop k="customdash" v="0.66;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="round"/>
+                  <prop k="line_color" v="84,176,74,255"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0.15"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="0"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="1"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+            <layer pass="0" class="LinePatternFill" locked="0">
+              <prop k="angle" v="45"/>
+              <prop k="color" v="0,0,255,255"/>
+              <prop k="distance" v="5"/>
+              <prop k="distance_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_unit" v="MM"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@1@3">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="round"/>
+                  <prop k="customdash" v="0.66;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="round"/>
+                  <prop k="line_color" v="84,176,74,255"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0.15"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="-1"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="1"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="200,159,87,255"/>
+              <prop k="color" v="116,227,164,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_color" v="35,35,35,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -11392,11 +12500,170 @@
             </layer>
           </symbol>
         </symbols>
+        <source-symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="125,139,143,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </source-symbol>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
       <labeling type="simple"/>
-      <customproperties/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="Ubuntu"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="11"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Italic"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
@@ -11422,6 +12689,34 @@
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="Ubuntu,11,-1,5,50,0,0,0,0,0" style=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <aliases>
         <alias field="gid" index="0" name=""/>
@@ -11454,15 +12749,62 @@
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
+      <attributeactions default="0">
+        <actionsetting showInAttributeTable="1" action="" icon="" capture="0" type="0" name="" shortTitle=""/>
+      </attributeactions>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="rotation"/>
+          <column width="-1" hidden="0" type="field" name="group"/>
+          <column width="-1" hidden="1" type="actions"/>
+          <column width="-1" hidden="0" type="field" name="gid"/>
+          <column width="-1" hidden="0" type="field" name="tipo"/>
+          <column width="-1" hidden="0" type="field" name="escala"/>
+          <column width="-1" hidden="0" type="field" name="signo"/>
+          <column width="-1" hidden="0" type="field" name="fuente"/>
+          <column width="-1" hidden="0" type="field" name="operador"/>
+          <column width="-1" hidden="0" type="field" name="dataset"/>
+          <column width="-1" hidden="0" type="field" name="fclass"/>
+          <column width="-1" hidden="0" type="field" name="responsabl"/>
+          <column width="-1" hidden="0" type="field" name="cargo"/>
+          <column width="-1" hidden="0" type="field" name="progreso"/>
+          <column width="-1" hidden="0" type="field" name="t_act"/>
+          <column width="-1" hidden="0" type="field" name="coord"/>
+          <column width="-1" hidden="0" type="field" name="sp"/>
+          <column width="-1" hidden="0" type="field" name="datum"/>
+          <column width="-1" hidden="0" type="field" name="ac"/>
+          <column width="-1" hidden="0" type="field" name="detalle"/>
+          <column width="-1" hidden="0" type="field" name="actualizac"/>
+          <column width="-1" hidden="0" type="field" name="igds_style"/>
+          <column width="-1" hidden="0" type="field" name="igds_type"/>
+          <column width="-1" hidden="0" type="field" name="igds_weigh"/>
+          <column width="-1" hidden="0" type="field" name="igds_color"/>
+          <column width="-1" hidden="0" type="field" name="igds_level"/>
+          <column width="-1" hidden="0" type="field" name="length"/>
+          <column width="-1" hidden="0" type="field" name="shape_area"/>
+        </columns>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- codificación: utf-8 -*-
+"""
+Los formularios de QGIS pueden tener una función de Python que
+es llamada cuando se abre el formulario.
+
+Use esta función para añadir lógica extra a sus formularios.
+
+Introduzca el nombre de la función en el campo
+"Python Init function".
+Sigue un ejemplo:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <widgets/>
@@ -11499,9 +12841,9 @@
         <default field="length" expression=""/>
         <default field="shape_area" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>Tipo</previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="0" simplifyDrawingHints="1" minLabelScale="1" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
         <xmin>-71.82351684570309658</xmin>
         <ymin>-53.61233139038090201</ymin>
@@ -11616,17 +12958,56 @@
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+      <renderer-v2 attr="Tipo" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
+        <categories>
+          <category render="true" symbol="0" value="Pajonal, Malezal, Cardal, Cortaderal, Espaal, Jarillal, Quiscal, Juncal, Totoral" label="Pajonal, Malezal, Cardal, Cortaderal, Espaal, Jarillal, Quiscal, Juncal, Totoral"/>
+          <category render="true" symbol="1" value="" label=""/>
+        </categories>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SVGFill" locked="0">
+              <prop k="angle" v="0"/>
+              <prop k="color" v="255,255,255,255"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_width" v="0.2"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="pattern_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="pattern_width_unit" v="MM"/>
+              <prop k="svgFile" v="/home/user/Downloads/pajonal2.svg"/>
+              <prop k="svg_outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="svg_outline_width_unit" v="MM"/>
+              <prop k="width" v="8"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@0@0">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="square"/>
+                  <prop k="customdash" v="5;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="bevel"/>
+                  <prop k="line_color" v="35,35,35,0"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="-7.21645e-16"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="0"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="126,204,141,255"/>
+              <prop k="color" v="102,89,223,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_color" v="35,35,35,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -11634,11 +13015,170 @@
             </layer>
           </symbol>
         </symbols>
+        <source-symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="133,182,111,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </source-symbol>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
       <labeling type="simple"/>
-      <customproperties/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="Ubuntu"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="11"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Italic"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerTransparency>0</layerTransparency>
@@ -11664,6 +13204,34 @@
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="Ubuntu,11,-1,5,50,0,0,0,0,0" style=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
       <annotationform>.</annotationform>
       <aliases>
         <alias field="gid" index="0" name=""/>
@@ -11696,15 +13264,62 @@
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
+      <attributeactions default="0">
+        <actionsetting showInAttributeTable="1" action="" icon="" capture="0" type="0" name="" shortTitle=""/>
+      </attributeactions>
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+        <columns>
+          <column width="-1" hidden="0" type="field" name="rotation"/>
+          <column width="-1" hidden="0" type="field" name="group"/>
+          <column width="-1" hidden="1" type="actions"/>
+          <column width="-1" hidden="0" type="field" name="gid"/>
+          <column width="-1" hidden="0" type="field" name="tipo"/>
+          <column width="-1" hidden="0" type="field" name="escala"/>
+          <column width="-1" hidden="0" type="field" name="signo"/>
+          <column width="-1" hidden="0" type="field" name="fuente"/>
+          <column width="-1" hidden="0" type="field" name="opeador"/>
+          <column width="-1" hidden="0" type="field" name="dataset"/>
+          <column width="-1" hidden="0" type="field" name="fclass"/>
+          <column width="-1" hidden="0" type="field" name="responsabl"/>
+          <column width="-1" hidden="0" type="field" name="cargo"/>
+          <column width="-1" hidden="0" type="field" name="progreso"/>
+          <column width="-1" hidden="0" type="field" name="t_act"/>
+          <column width="-1" hidden="0" type="field" name="coord"/>
+          <column width="-1" hidden="0" type="field" name="sp"/>
+          <column width="-1" hidden="0" type="field" name="datum"/>
+          <column width="-1" hidden="0" type="field" name="ac"/>
+          <column width="-1" hidden="0" type="field" name="detalle"/>
+          <column width="-1" hidden="0" type="field" name="actualizac"/>
+          <column width="-1" hidden="0" type="field" name="igds_style"/>
+          <column width="-1" hidden="0" type="field" name="igds_type"/>
+          <column width="-1" hidden="0" type="field" name="igds_weigh"/>
+          <column width="-1" hidden="0" type="field" name="igds_color"/>
+          <column width="-1" hidden="0" type="field" name="igds_level"/>
+          <column width="-1" hidden="0" type="field" name="length"/>
+          <column width="-1" hidden="0" type="field" name="shape_area"/>
+        </columns>
       </attributetableconfig>
       <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
       <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[]]></editforminitcode>
+      <editforminitcode><![CDATA[# -*- codificación: utf-8 -*-
+"""
+Los formularios de QGIS pueden tener una función de Python que
+es llamada cuando se abre el formulario.
+
+Use esta función para añadir lógica extra a sus formularios.
+
+Introduzca el nombre de la función en el campo
+"Python Init function".
+Sigue un ejemplo:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <widgets/>
@@ -11741,7 +13356,7 @@
         <default field="length" expression=""/>
         <default field="shape_area" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>Tipo</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -12248,15 +13863,15 @@
       <DistanceUnits type="QString">meters</DistanceUnits>
       <AreaUnits type="QString">m2</AreaUnits>
     </Measurement>
-    <Legend>
-      <filterByMap type="bool">false</filterByMap>
-    </Legend>
     <WMSExtent type="QStringList">
       <value>-96.61414196169502588</value>
       <value>-59.45606732368473502</value>
       <value>-29.67398593747486046</value>
       <value>-20.68711924552916059</value>
     </WMSExtent>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
     <DefaultStyles>
       <Fill type="QString"></Fill>
       <Line type="QString"></Line>
@@ -12279,8 +13894,8 @@
       <veg_suelo_desnudo20181023085242203 type="int">8</veg_suelo_desnudo20181023085242203>
       <curso_de_agua_hid20181023085240442 type="int">8</curso_de_agua_hid20181023085240442>
       <infraestructura_aeroportuaria_punto20181023085241199 type="int">8</infraestructura_aeroportuaria_punto20181023085241199>
-      <isla20181023085241311 type="int">8</isla20181023085241311>
       <veg_arborea20181023085242186 type="int">8</veg_arborea20181023085242186>
+      <isla20181023085241311 type="int">8</isla20181023085241311>
       <obra_portuaria20181023085241620 type="int">8</obra_portuaria20181023085241620>
       <limite_politico_administrativo_lim20181023085241356 type="int">8</limite_politico_administrativo_lim20181023085241356>
       <otras_edificaciones20181023085241661 type="int">8</otras_edificaciones20181023085241661>
@@ -12292,16 +13907,16 @@
       <actividades_agropecuarias20181023085239978 type="int">8</actividades_agropecuarias20181023085239978>
       <curvas_de_nivel20181023085240511 type="int">8</curvas_de_nivel20181023085240511>
       <edificio_publico_ips20181023085240867 type="int">8</edificio_publico_ips20181023085240867>
-      <edificio_de_salud_ips20181023085240801 type="int">8</edificio_de_salud_ips20181023085240801>
       <sue_congelado20181023085242092 type="int">8</sue_congelado20181023085242092>
+      <edificio_de_salud_ips20181023085240801 type="int">8</edificio_de_salud_ips20181023085240801>
       <vias_secundarias20181023085242209 type="int">8</vias_secundarias20181023085242209>
       <ejido20181023085240993 type="int">8</ejido20181023085240993>
       <provincias20181023085241722 type="int">8</provincias20181023085241722>
       <sue_no_consolidado20181023085242159 type="int">8</sue_no_consolidado20181023085242159>
       <espejo_de_agua_hid20181023085241127 type="int">8</espejo_de_agua_hid20181023085241127>
-      <actividades_economicas20181023085240318 type="int">8</actividades_economicas20181023085240318>
-      <pais_lim20181023085241689 type="int">8</pais_lim20181023085241689>
       <puntos_del_terreno20181023085241849 type="int">8</puntos_del_terreno20181023085241849>
+      <pais_lim20181023085241689 type="int">8</pais_lim20181023085241689>
+      <actividades_economicas20181023085240318 type="int">8</actividades_economicas20181023085240318>
       <complejo_de_energia_ene20181023085240397 type="int">8</complejo_de_energia_ene20181023085240397>
       <edif_educacion20181023085240708 type="int">8</edif_educacion20181023085240708>
       <sue_hidromorfologico20181023085242139 type="int">8</sue_hidromorfologico20181023085242139>
@@ -12377,10 +13992,10 @@
       <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
       <CanvasColorBluePart type="int">255</CanvasColorBluePart>
     </Gui>
+    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
     <Measure>
       <Ellipsoid type="QString">NONE</Ellipsoid>
     </Measure>
-    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
     <WFSLayers type="QStringList">
       <value>actividades_agropecuarias20181023085239978</value>
       <value>actividades_economicas20181023085240318</value>

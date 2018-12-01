@@ -1,0 +1,643 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" expanded="1" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer name="Espejo_de_Agua_Hid" providerKey="ogr" source="./shape/Espejo_de_Agua_Hid.shp" expanded="1" id="Espejo_de_Agua_Hid_2f1f5abe_6c4c_4457_a7bf_83ceaa4bac12" checked="Qt::Checked">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer geometry="Polygon" hasScaleBasedVisibilityFlag="0" autoRefreshTime="0" simplifyDrawingHints="1" refreshOnNotifyEnabled="0" refreshOnNotifyMessage="" readOnly="0" autoRefreshEnabled="0" type="vector" simplifyLocal="1" simplifyDrawingTol="1" minScale="1e+8" simplifyAlgorithm="0" labelsEnabled="0" maxScale="0" simplifyMaxScale="1">
+      <extent>
+        <xmin>-62.797348839854223</xmin>
+        <ymin>-27.99801143877800413</ymin>
+        <xmax>-58.36327944343730678</xmax>
+        <ymax>-24.14281845099992552</ymax>
+      </extent>
+      <id>Espejo_de_Agua_Hid_2f1f5abe_6c4c_4457_a7bf_83ceaa4bac12</id>
+      <datasource>./shape/Espejo_de_Agua_Hid.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Espejo_de_Agua_Hid</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>true</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial maxy="0" dimensions="2" maxx="0" crs="" minx="0" maxz="0" minz="0" miny="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="predeterminado">
+        <map-layer-style name="predeterminado"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <renderer-v2 enableorderby="0" type="singleSymbol" forceraster="0" symbollevels="0">
+        <symbols>
+          <symbol name="0" type="fill" alpha="1" clip_to_extent="1">
+            <layer pass="0" locked="0" class="SimpleFill" enabled="1">
+              <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+              <prop v="184,234,255,255" k="color"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="88,206,238,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0.26" k="outline_width"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="solid" k="style"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <property key="dualview/previewExpressions" value="&quot;Salinidad&quot;"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
+        <DiagramCategory height="15" lineSizeScale="3x:0,0,0,0,0,0" barWidth="5" rotationOffset="270" labelPlacementMethod="XHeight" lineSizeType="MM" maxScaleDenominator="1e+8" sizeScale="3x:0,0,0,0,0,0" scaleBasedVisibility="0" backgroundAlpha="255" penColor="#000000" width="15" enabled="0" opacity="1" scaleDependency="Area" diagramOrientation="Up" minimumSize="0" minScaleDenominator="0" penWidth="0" penAlpha="255" sizeType="MM" backgroundColor="#ffffff">
+          <fontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute color="#000000" field="" label=""/>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings priority="0" dist="0" linePlacementFlags="18" zIndex="0" obstacle="0" placement="1" showAll="1">
+        <properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
+      <fieldConfiguration>
+        <field name="Nombre">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Tipo">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Precisin">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Escala">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Signo">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Fuente">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Operador">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="DataSet">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="FClass">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Responsabl">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Cargo">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Progreso">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="T_Act">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Coord">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Sp">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Datum">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Ac">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Cuenca">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Uso">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Salinidad">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Rgimen">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Navegabili">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Actualizac">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Igds_style">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Igds_Type">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Igds_weigh">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="rotation">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Igds_color">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="group">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Igds_level">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="Length">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="SHAPE_Area">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" index="0" field="Nombre"/>
+        <alias name="" index="1" field="Tipo"/>
+        <alias name="" index="2" field="Precisin"/>
+        <alias name="" index="3" field="Escala"/>
+        <alias name="" index="4" field="Signo"/>
+        <alias name="" index="5" field="Fuente"/>
+        <alias name="" index="6" field="Operador"/>
+        <alias name="" index="7" field="DataSet"/>
+        <alias name="" index="8" field="FClass"/>
+        <alias name="" index="9" field="Responsabl"/>
+        <alias name="" index="10" field="Cargo"/>
+        <alias name="" index="11" field="Progreso"/>
+        <alias name="" index="12" field="T_Act"/>
+        <alias name="" index="13" field="Coord"/>
+        <alias name="" index="14" field="Sp"/>
+        <alias name="" index="15" field="Datum"/>
+        <alias name="" index="16" field="Ac"/>
+        <alias name="" index="17" field="Cuenca"/>
+        <alias name="" index="18" field="Uso"/>
+        <alias name="" index="19" field="Salinidad"/>
+        <alias name="" index="20" field="Rgimen"/>
+        <alias name="" index="21" field="Navegabili"/>
+        <alias name="" index="22" field="Actualizac"/>
+        <alias name="" index="23" field="Igds_style"/>
+        <alias name="" index="24" field="Igds_Type"/>
+        <alias name="" index="25" field="Igds_weigh"/>
+        <alias name="" index="26" field="rotation"/>
+        <alias name="" index="27" field="Igds_color"/>
+        <alias name="" index="28" field="group"/>
+        <alias name="" index="29" field="Igds_level"/>
+        <alias name="" index="30" field="Length"/>
+        <alias name="" index="31" field="SHAPE_Area"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default field="Nombre" expression="" applyOnUpdate="0"/>
+        <default field="Tipo" expression="" applyOnUpdate="0"/>
+        <default field="Precisin" expression="" applyOnUpdate="0"/>
+        <default field="Escala" expression="" applyOnUpdate="0"/>
+        <default field="Signo" expression="" applyOnUpdate="0"/>
+        <default field="Fuente" expression="" applyOnUpdate="0"/>
+        <default field="Operador" expression="" applyOnUpdate="0"/>
+        <default field="DataSet" expression="" applyOnUpdate="0"/>
+        <default field="FClass" expression="" applyOnUpdate="0"/>
+        <default field="Responsabl" expression="" applyOnUpdate="0"/>
+        <default field="Cargo" expression="" applyOnUpdate="0"/>
+        <default field="Progreso" expression="" applyOnUpdate="0"/>
+        <default field="T_Act" expression="" applyOnUpdate="0"/>
+        <default field="Coord" expression="" applyOnUpdate="0"/>
+        <default field="Sp" expression="" applyOnUpdate="0"/>
+        <default field="Datum" expression="" applyOnUpdate="0"/>
+        <default field="Ac" expression="" applyOnUpdate="0"/>
+        <default field="Cuenca" expression="" applyOnUpdate="0"/>
+        <default field="Uso" expression="" applyOnUpdate="0"/>
+        <default field="Salinidad" expression="" applyOnUpdate="0"/>
+        <default field="Rgimen" expression="" applyOnUpdate="0"/>
+        <default field="Navegabili" expression="" applyOnUpdate="0"/>
+        <default field="Actualizac" expression="" applyOnUpdate="0"/>
+        <default field="Igds_style" expression="" applyOnUpdate="0"/>
+        <default field="Igds_Type" expression="" applyOnUpdate="0"/>
+        <default field="Igds_weigh" expression="" applyOnUpdate="0"/>
+        <default field="rotation" expression="" applyOnUpdate="0"/>
+        <default field="Igds_color" expression="" applyOnUpdate="0"/>
+        <default field="group" expression="" applyOnUpdate="0"/>
+        <default field="Igds_level" expression="" applyOnUpdate="0"/>
+        <default field="Length" expression="" applyOnUpdate="0"/>
+        <default field="SHAPE_Area" expression="" applyOnUpdate="0"/>
+      </defaults>
+      <constraints>
+        <constraint notnull_strength="0" field="Nombre" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Tipo" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Precisin" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Escala" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Signo" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Fuente" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Operador" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="DataSet" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="FClass" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Responsabl" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Cargo" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Progreso" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="T_Act" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Coord" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Sp" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Datum" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Ac" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Cuenca" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Uso" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Salinidad" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Rgimen" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Navegabili" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Actualizac" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Igds_style" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Igds_Type" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Igds_weigh" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="rotation" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Igds_color" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="group" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Igds_level" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="Length" exp_strength="0" unique_strength="0" constraints="0"/>
+        <constraint notnull_strength="0" field="SHAPE_Area" exp_strength="0" unique_strength="0" constraints="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" field="Nombre" exp=""/>
+        <constraint desc="" field="Tipo" exp=""/>
+        <constraint desc="" field="Precisin" exp=""/>
+        <constraint desc="" field="Escala" exp=""/>
+        <constraint desc="" field="Signo" exp=""/>
+        <constraint desc="" field="Fuente" exp=""/>
+        <constraint desc="" field="Operador" exp=""/>
+        <constraint desc="" field="DataSet" exp=""/>
+        <constraint desc="" field="FClass" exp=""/>
+        <constraint desc="" field="Responsabl" exp=""/>
+        <constraint desc="" field="Cargo" exp=""/>
+        <constraint desc="" field="Progreso" exp=""/>
+        <constraint desc="" field="T_Act" exp=""/>
+        <constraint desc="" field="Coord" exp=""/>
+        <constraint desc="" field="Sp" exp=""/>
+        <constraint desc="" field="Datum" exp=""/>
+        <constraint desc="" field="Ac" exp=""/>
+        <constraint desc="" field="Cuenca" exp=""/>
+        <constraint desc="" field="Uso" exp=""/>
+        <constraint desc="" field="Salinidad" exp=""/>
+        <constraint desc="" field="Rgimen" exp=""/>
+        <constraint desc="" field="Navegabili" exp=""/>
+        <constraint desc="" field="Actualizac" exp=""/>
+        <constraint desc="" field="Igds_style" exp=""/>
+        <constraint desc="" field="Igds_Type" exp=""/>
+        <constraint desc="" field="Igds_weigh" exp=""/>
+        <constraint desc="" field="rotation" exp=""/>
+        <constraint desc="" field="Igds_color" exp=""/>
+        <constraint desc="" field="group" exp=""/>
+        <constraint desc="" field="Igds_level" exp=""/>
+        <constraint desc="" field="Length" exp=""/>
+        <constraint desc="" field="SHAPE_Area" exp=""/>
+      </constraintExpressions>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns>
+          <column hidden="0" width="-1" name="Nombre" type="field"/>
+          <column hidden="0" width="-1" name="Tipo" type="field"/>
+          <column hidden="0" width="-1" name="Precisin" type="field"/>
+          <column hidden="0" width="-1" name="Escala" type="field"/>
+          <column hidden="0" width="-1" name="Signo" type="field"/>
+          <column hidden="0" width="-1" name="Fuente" type="field"/>
+          <column hidden="0" width="-1" name="Operador" type="field"/>
+          <column hidden="0" width="-1" name="DataSet" type="field"/>
+          <column hidden="0" width="-1" name="FClass" type="field"/>
+          <column hidden="0" width="-1" name="Responsabl" type="field"/>
+          <column hidden="0" width="-1" name="Cargo" type="field"/>
+          <column hidden="0" width="-1" name="Progreso" type="field"/>
+          <column hidden="0" width="-1" name="T_Act" type="field"/>
+          <column hidden="0" width="-1" name="Coord" type="field"/>
+          <column hidden="0" width="-1" name="Sp" type="field"/>
+          <column hidden="0" width="-1" name="Datum" type="field"/>
+          <column hidden="0" width="-1" name="Ac" type="field"/>
+          <column hidden="0" width="-1" name="Cuenca" type="field"/>
+          <column hidden="0" width="-1" name="Uso" type="field"/>
+          <column hidden="0" width="-1" name="Salinidad" type="field"/>
+          <column hidden="0" width="-1" name="Rgimen" type="field"/>
+          <column hidden="0" width="-1" name="Navegabili" type="field"/>
+          <column hidden="0" width="-1" name="Actualizac" type="field"/>
+          <column hidden="0" width="-1" name="Igds_style" type="field"/>
+          <column hidden="0" width="-1" name="Igds_Type" type="field"/>
+          <column hidden="0" width="-1" name="Igds_weigh" type="field"/>
+          <column hidden="0" width="-1" name="rotation" type="field"/>
+          <column hidden="0" width="-1" name="Igds_color" type="field"/>
+          <column hidden="0" width="-1" name="group" type="field"/>
+          <column hidden="0" width="-1" name="Igds_level" type="field"/>
+          <column hidden="0" width="-1" name="Length" type="field"/>
+          <column hidden="0" width="-1" name="SHAPE_Area" type="field"/>
+          <column hidden="1" width="-1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- codificación: utf-8 -*-
+"""
+Los formularios de QGIS pueden tener una función de Python que
+es llamada cuando se abre el formulario.
+
+Use esta función para añadir lógica extra a sus formularios.
+
+Introduzca el nombre de la función en el campo
+"Python Init function".
+Sigue un ejemplo:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable>
+        <field name="Ac" editable="1"/>
+        <field name="Actualizac" editable="1"/>
+        <field name="Cargo" editable="1"/>
+        <field name="Coord" editable="1"/>
+        <field name="Cuenca" editable="1"/>
+        <field name="DataSet" editable="1"/>
+        <field name="Datum" editable="1"/>
+        <field name="Escala" editable="1"/>
+        <field name="FClass" editable="1"/>
+        <field name="Fuente" editable="1"/>
+        <field name="Igds_Type" editable="1"/>
+        <field name="Igds_color" editable="1"/>
+        <field name="Igds_level" editable="1"/>
+        <field name="Igds_style" editable="1"/>
+        <field name="Igds_weigh" editable="1"/>
+        <field name="Length" editable="1"/>
+        <field name="Navegabili" editable="1"/>
+        <field name="Nombre" editable="1"/>
+        <field name="Operador" editable="1"/>
+        <field name="Precisin" editable="1"/>
+        <field name="Progreso" editable="1"/>
+        <field name="Responsabl" editable="1"/>
+        <field name="Rgimen" editable="1"/>
+        <field name="SHAPE_Area" editable="1"/>
+        <field name="Salinidad" editable="1"/>
+        <field name="Signo" editable="1"/>
+        <field name="Sp" editable="1"/>
+        <field name="T_Act" editable="1"/>
+        <field name="Tipo" editable="1"/>
+        <field name="Uso" editable="1"/>
+        <field name="group" editable="1"/>
+        <field name="rotation" editable="1"/>
+      </editable>
+      <labelOnTop>
+        <field name="Ac" labelOnTop="0"/>
+        <field name="Actualizac" labelOnTop="0"/>
+        <field name="Cargo" labelOnTop="0"/>
+        <field name="Coord" labelOnTop="0"/>
+        <field name="Cuenca" labelOnTop="0"/>
+        <field name="DataSet" labelOnTop="0"/>
+        <field name="Datum" labelOnTop="0"/>
+        <field name="Escala" labelOnTop="0"/>
+        <field name="FClass" labelOnTop="0"/>
+        <field name="Fuente" labelOnTop="0"/>
+        <field name="Igds_Type" labelOnTop="0"/>
+        <field name="Igds_color" labelOnTop="0"/>
+        <field name="Igds_level" labelOnTop="0"/>
+        <field name="Igds_style" labelOnTop="0"/>
+        <field name="Igds_weigh" labelOnTop="0"/>
+        <field name="Length" labelOnTop="0"/>
+        <field name="Navegabili" labelOnTop="0"/>
+        <field name="Nombre" labelOnTop="0"/>
+        <field name="Operador" labelOnTop="0"/>
+        <field name="Precisin" labelOnTop="0"/>
+        <field name="Progreso" labelOnTop="0"/>
+        <field name="Responsabl" labelOnTop="0"/>
+        <field name="Rgimen" labelOnTop="0"/>
+        <field name="SHAPE_Area" labelOnTop="0"/>
+        <field name="Salinidad" labelOnTop="0"/>
+        <field name="Signo" labelOnTop="0"/>
+        <field name="Sp" labelOnTop="0"/>
+        <field name="T_Act" labelOnTop="0"/>
+        <field name="Tipo" labelOnTop="0"/>
+        <field name="Uso" labelOnTop="0"/>
+        <field name="group" labelOnTop="0"/>
+        <field name="rotation" labelOnTop="0"/>
+      </labelOnTop>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <expressionfields/>
+      <previewExpression>Salinidad</previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
