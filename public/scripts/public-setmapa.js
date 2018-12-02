@@ -32,7 +32,7 @@ var vector = new ol.layer.Vector({
 
 
 var layers = [];
-data.map(element => {
+data.forEach(element => {
     var layer;
     layer = new ol.layer.Image({
         title: element.nombre,

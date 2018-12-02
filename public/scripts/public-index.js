@@ -3,6 +3,12 @@ var tipo_control = 'navegacion';
 
 function changeVisibility(checkbox, id) {
     layers[id].setVisible(checkbox.checked);
+    if(checkbox.checked){
+        document.querySelector("#leyend_"+checkbox.id).classList.remove("d-none");
+    } else {
+        document.querySelector("#leyend_"+checkbox.id).classList.add("d-none");
+    }
+    
     if (checkbox.checked && tipo_control == 'consulta') {
         capa_activa = checkbox.id;
         setAllInvisible(id);
@@ -10,10 +16,11 @@ function changeVisibility(checkbox, id) {
 }
 
 function setAllInvisible(id) {
-    for (let index = 1; index < layers.length; index++) {
+    for (let index = 1; index < layers.length - 1; index++) {
         const element = layers[index];
         if (index != id) {
-            element.setVisible(false)
+            element.setVisible(false);
+            document.querySelector("#leyend_"+data[index-1].capa).classList.add("d-none")
         }
     }
 }
