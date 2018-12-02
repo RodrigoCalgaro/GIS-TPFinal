@@ -1,7 +1,7 @@
 var pgp = require('pg-promise')();
 
 var cn = {
-  host: 'localhost',
+  host: '127.0.0.1',
   port: 5432,
   user: 'user',
   password: 'user',

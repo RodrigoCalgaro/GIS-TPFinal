@@ -2,6 +2,35 @@ var typeSelect = document.getElementById('type');
 
 var draw; // global so we can remove it later
 
+var sketch;
+var helpTooltipElement;
+var helpTooltip;
+var measureTooltipElement;
+var measureTooltip;
+var continuePolygonMsg = 'Click to continue drawing the polygon';
+var continueLineMsg = 'Click to continue drawing the line';
+var pointerMoveHandler = function (evt) {
+    if (evt.dragging) {
+        return;
+    }
+
+    var helpMsg = 'Click to start drawing';
+
+    if (sketch) {
+        var geom = (sketch.getGeometry());
+        if (geom instanceof ol.geom.Polygon) {
+            helpMsg = continuePolygonMsg;
+        } else if (geom instanceof ol.geom.LineString) {
+            helpMsg = continueLineMsg;
+        }
+    }
+
+    helpTooltipElement.innerHTML = helpMsg;
+    helpTooltip.setPosition(evt.coordinate);
+
+    helpTooltipElement.classList.remove('hidden');
+
+};
 
 var formatLength = function (line) {
     var length = ol.Sphere.getLength(line);

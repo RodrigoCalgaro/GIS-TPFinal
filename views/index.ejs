@@ -27,18 +27,21 @@
     <div id="controles">
       <h3 class="m-3">Controles</h3>
       <input type="radio" class="ml-3 mr-1" name="controles" id="controles_navegacion" value="navegacion" checked="checked" onchange="seleccionarControl(this)">
-      <label for="controles_navegacion">Navegacion</label><br />
+      <label for="controles_navegacion">Navegar</label><br />
       <input type="radio" class="ml-3 mr-1" name="controles" id="controles_consulta" value="consulta" onchange="seleccionarControl(this)">
-      <label for="controles_consulta">Consulta</label><br />
+      <label for="controles_consulta">Consultar</label><br />
+      <input type="radio" class="ml-3 mr-1" name="controles" id="controles_agregar" value="agregar" onchange="seleccionarControl(this)">
+      <label for="controles_agregar">Agregar Punto de Interés</label><br />
+
 
       <!-- Measure -->
       <input type="radio" class="ml-3 mr-1" name="controles" id="controles_medicion" value="medicion" onchange="seleccionarControl(this)">
-      <label for="controles_medicion">Medición &nbsp;</label>
+      <label for="controles_medicion">Medir &nbsp;</label>
       <!-- <form class="form-inline"> -->
-        <select id="type">
-          <option value="length">Longitud (Linea)</option>
-          <option value="area">Área (Polígono)</option>
-        </select>
+      <select id="type">
+        <option value="length">Distancia (Línea)</option>
+        <option value="area">Área (Polígono)</option>
+      </select>
       <!-- </form> -->
     </div>
 
@@ -53,25 +56,44 @@
   </div>
 
   <!-- Mouse Position -->
-  <div id="mouse-position" class="text-light"></div>
+  <div id="mouse-position" class="text-light m-3"></div>
 
 
   <% include info %>
+    <% include add-point %>
 
 
-    <!-- SCRIPTS -->
-    <!-- Librerías -->
-    <script src="/scripts/jquery-3.3.1.slim.min.js"></script>
-    <script src="/scripts/bootstrap.min.js"></script>
-    <script src="/scripts/axios.min.js"></script>
+      <!-- Hit tolerance -->
+      <form class="form-inline d-none">
+        <span id="status">&nbsp;No feature got hit.</span>
+        <br/>
+        <label>Hit tolerance for selecting features </label>
+        <select id="hitTolerance" class="form-control">
+          <option value="0">0 Pixels</option>
+          <option value="5">5 Pixels</option>
+          <option value="10" selected>10 Pixels</option>
+        </select>
+        <br/> Area: &nbsp;<canvas id="circle" style="vertical-align: middle">
+      </form>
 
-    <!-- Nuestro Código -->
-    <script src="/scripts/public-setmapa.js"></script>
-    <script src="/scripts/public-measure.js"></script>
-    <script src="/scripts/public-index.js"></script>
-    <script src="/scripts/public-consulta.js"></script>
+
+
+      <!-- SCRIPTS -->
+      <!-- Librerías -->
+      <script src="/scripts/jquery-3.3.1.slim.min.js"></script>
+      <script src="/scripts/bootstrap.min.js"></script>
+      <script src="/scripts/axios.min.js"></script>
+
+      <!-- Nuestro Código -->
+      <script src="/scripts/public-setmapa.js"></script>
+      <script src="/scripts/public-mouse-position.js"></script>
+      <script src="/scripts/public-measure.js"></script>
+      <script src="/scripts/public-hit-tolerance.js"></script>
+      <script src="/scripts/public-add-point.js"></script>
+      <script src="/scripts/public-consulta.js"></script>
+      <script src="/scripts/public-index.js"></script>
+
 
 </body>
-
 
 </html>

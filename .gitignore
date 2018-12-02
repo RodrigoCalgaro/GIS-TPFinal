@@ -1,3 +1,5 @@
 node_modules/
 
 config/url_ocg.js
+
+npm-debug.log

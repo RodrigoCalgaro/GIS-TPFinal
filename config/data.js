@@ -328,6 +328,13 @@ var data = [{
         url_ogc,
         capa: 'vias_secundarias',
         visible: false
+    },
+    {
+        id: 48,
+        nombre: 'Puntos de Interes',
+        url_ogc,
+        capa: 'puntos_de_interes',
+        visible: false
     }
 ]
 
